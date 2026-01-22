@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1769050083392" clover="3.2.0">
+  <project timestamp="1769050083392" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="24" coveredconditionals="24" methods="19" coveredmethods="19" elements="74" coveredelements="74" complexity="0" loc="31" ncloc="31" packages="1" files="1" classes="1"/>
+    <file name="TodoApp.jsx" path="/Users/sprasannavenketesh/Downloads/projects/todo-test/src/TodoApp.jsx">
+      <metrics statements="31" coveredstatements="31" conditionals="24" coveredconditionals="24" methods="19" coveredmethods="19"/>
+      <line num="5" count="515" type="stmt"/>
+      <line num="6" count="514" type="stmt"/>
+      <line num="7" count="514" type="stmt"/>
+      <line num="9" count="514" type="stmt"/>
+      <line num="10" count="40" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="38" type="stmt"/>
+      <line num="12" count="38" type="stmt"/>
+      <line num="16" count="514" type="stmt"/>
+      <line num="17" count="7" type="stmt"/>
+      <line num="20" count="514" type="stmt"/>
+      <line num="21" count="18" type="stmt"/>
+      <line num="23" count="40" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="514" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="32" count="514" type="stmt"/>
+      <line num="33" count="282" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="274" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="268" type="stmt"/>
+      <line num="38" count="514" type="stmt"/>
+      <line num="39" count="514" type="stmt"/>
+      <line num="41" count="514" type="stmt"/>
+      <line num="42" count="422" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="47" count="514" type="stmt"/>
+      <line num="56" count="421" type="stmt"/>
+      <line num="91" count="1" type="stmt"/>
+      <line num="98" count="2" type="stmt"/>
+      <line num="105" count="2" type="stmt"/>
+      <line num="122" count="273" type="stmt"/>
+      <line num="130" count="18" type="stmt"/>
+      <line num="136" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
